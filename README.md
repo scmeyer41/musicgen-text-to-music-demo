@@ -2,7 +2,7 @@
 
 An exploration of Meta's pretrained MusicGen models for text-conditioned music generation, audio continuation, and melody-conditioned generation. The project uses Python, PyTorch, and the AudioCraft library in Google Colab.
 
-> This was a collaborative academic project for DS 677: Deep Learning at the New Jersey Institute of Technology. The team consisted of Michel Fosa, Mallika Kasi, and Steven Meyer. Steven proposed MusicGen as the project topic and contributed to the research, technical analysis, documentation, and presentation. His teammates led more of the hands-on demo execution and testing.
+> This was a collaborative academic project for DS 677: Deep Learning at the New Jersey Institute of Technology. The team consisted of me, Michel Fosa, Mallika Kasi. I proposed MusicGen as the project topic and contributed to the research, technical analysis, documentation, and presentation. My teammates led more of the hands-on demo execution and testing.
 
 ## Important distinction
 

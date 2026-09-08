@@ -1,0 +1,8 @@
+# The notebook installs these packages in Google Colab.
+# AudioCraft can impose strict PyTorch and FFmpeg compatibility requirements;
+# consult its official installation guidance if Colab's runtime changes.
+torch==2.1.0
+torchaudio==2.1.0
+torchvision==0.16.0
+transformers==4.35.2
+audiocraft @ git+https://github.com/facebookresearch/audiocraft.git

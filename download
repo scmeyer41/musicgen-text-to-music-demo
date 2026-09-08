@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local configuration and model caches
+.env
+.cache/
+models/
+
+# Generated audio
+outputs/
+*.wav
+*.mp3
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
